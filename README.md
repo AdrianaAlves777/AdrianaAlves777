@@ -1,4 +1,4 @@
-### Hi, I am Adriana 👋
+### Hello, I am Adriana 😉
 
 <!--
 **AdrianaAlves777/AdrianaAlves777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
