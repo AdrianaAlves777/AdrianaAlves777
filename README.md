@@ -6,9 +6,6 @@
 Here are some ideas to get you started:
  -->
 
-- 🔭 I’m currently working on PMJG
-- 🌱 I’m currently learning SAP BW
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
+- :office: I’m currently working on PMJG
+- :blush: I’m currently learning SAP BW
 
