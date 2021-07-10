@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
  -->
 
+- :mortar_board: Graduated in Systems Analysis and Development
 - :office: I’m currently working on PMJG
 - :blush: I’m currently learning SAP BW
 - :smile: I’m currently learning Análise de Dados
 - :smile: I’m currently learning Big Data
-- :mortar_board: Graduated in Systems Analysis and Development
 - :dart: Working with Data Analysis
 
