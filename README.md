@@ -7,7 +7,7 @@ Here are some ideas to get you started:
  -->
 
 - :office: I’m currently working on PMJG
-- :blush: I’m currently learning SAP BW, Big Data
-- :blush: I’m currently learning Análise de Dados
-- :blush: I’m currently learning Big Data
+- :blush: I’m currently learning SAP BW
+- :smile: I’m currently learning Análise de Dados
+- :smile: I’m currently learning Big Data
 
