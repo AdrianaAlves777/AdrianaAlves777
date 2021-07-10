@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - :blush: I’m currently learning SAP BW
 - :smile: I’m currently learning Análise de Dados
 - :smile: I’m currently learning Big Data
-- :dart: Working with Data Analysis
+- :dart: Objective: Working with Data Analysis
 
